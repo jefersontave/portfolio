@@ -106,15 +106,6 @@
         padding: 40px 8%;
     }
 
-    .sobre img{
-        width: 100%;
-        border-radius: 50%;
-        background-color: #7ED957;
-        box-shadow: 0 0 8px #7ED957;
-        position: relative;
-        animation: flutuar 2s ease-in-out infinite alternate;
-    }
-
     .sobre .txt-sobre h2{
         font-size: 34px;
         line-height: 30px;
