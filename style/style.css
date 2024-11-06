@@ -7,6 +7,10 @@
     font-family: "Poppins", sans-serif;
 }
 
+html {
+    scroll-behavior: smooth;
+} 
+
 body {
     background-color: black;
     height: 100vh;
@@ -47,6 +51,8 @@ h2.titulo{
 h2.titulo span {
     color: #7ED957;
 }
+
+
 
 
 /*------HEADER-------*/
