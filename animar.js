@@ -1,5 +1,3 @@
-
-
 function clickmenu() {
     var menuMobile = document.getElementById('menu-mobile')
 
@@ -10,3 +8,5 @@ function clickmenu() {
         menuMobile.style.display = 'none'
     }
 }
+
+
